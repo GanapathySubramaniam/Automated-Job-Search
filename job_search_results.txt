@@ -1,0 +1,579 @@
+1. Senior Data Scientist - Bank of Montreal: Application Deadline:
+
+08/30/2024
+
+Address:
+100 King Street West
+
+Job Family Group:
+
+Data Analytics & Reporting
+
+We are looking for a talented individual to join our team in the position of Senior Data Scientist, Wealth Data Science. You'll work closely with many of our business partners and play a crucial role in leveraging data to make strategic business decisions (using techniques like machine learning, statistical modeling, causal inference, optimization, etc.)
+
+Key Accountabilities:
+• Designs and constructs new processes for modeling data. Develops predictive models and leverages big data technology to design solutions that deliver smarter business decisions, improve customer experience, and drive productivity. Collaborates with other data and analytics professionals and teams to optimize, refine and scale analysis into mature analytics solutions.
+• Plays an active role in the futuristic display of data, and advancement of innovative data strategies to understand consumer trends and address business problems.
+• Uses data mining and extracting usable data from valuable data sources to assess feasibility of AI/ML solutions for improved processing and usage of organization data.
+• Conducts large-scale analysis of information to discover patterns and trends by combining different modules and algorithms.
+• Develops prediction systems and machine learning algorithms. Investigates additional technologies and tools for developing innovative data solutions for business stakeholders.
+
+Qualifications:
+
+Minimum Requirements:
+• 2-8+ years of data science/quantitative modeling experience
+• Proficiency in SQL and a computing language such as Python
+• Strong knowledge and hands-on experience in several of the following areas: machine learning, statistics, optimization, product analytics, causal inference, and/or experimentation
+• Experience in working with cross-functional teams to deliver results
+• Ability to communicate results clearly and a focus on driving impact
+• A demonstrated ability to manage and deliver on multiple projects with a high attention to detail
+• Solid business acumen and experience in synthesizing complex analyses into actionable recommendations
+
+Preferred Qualifications:
+• Experience deploying models in production and adjusting model thresholds to improve performance
+• Experience designing, running, and analyzing complex experiments or leveraging causal inference designs
+• Experience with distributed tools such as Spark, Hadoop, etc.
+• A PhD or MS in a quantitative field (e.g., Statistics, Engineering, Mathematics, Economics, Quantitative Finance, Sciences, Operations Research)
+
+Salary:
+
+$81,600.00 - $151,200.00
+
+Pay Type:
+
+Salaried
+
+The above represents BMO Financial Group’s pay range and type.
+
+Salaries will vary based on factors such as location, skills, experience, education, and qualifications for the role, and may include a commission structure. Salaries for part-time roles will be pro-rated based on number of hours regularly worked. For commission roles, the salary listed above represents BMO Financial Group’s expected target for the first year in this position.
+
+BMO Financial Group’s total compensation package will vary based on the pay type of the position and may include performance-based incentives, discretionary bonuses, as well as other perks and rewards. BMO also offers health insurance, tuition reimbursement, accident and life insurance, and retirement savings plans. To view more details of our benefits, please visit: https://jobs.bmo.com/global/en/Total-Rewards
+
+We’re here to help
+
+At BMO we are driven by a shared Purpose: Boldly Grow the Good in business and life. It calls on us to create lasting, positive change for our customers, our communities and our people. By working together, innovating and pushing boundaries, we transform lives and businesses, and power economic growth around the world.
+
+As a member of the BMO team you are valued, respected and heard, and you have more ways to grow and make an impact. We strive to help you make an impact from day one – for yourself and our customers. We’ll support you with the tools and resources you need to reach new milestones, as you help our customers reach theirs. From in-depth training and coaching, to manager support and network-building opportunities, we’ll help you gain valuable experience, and broaden your skillset.
+
+To find out more visit us at https://jobs.bmo.com/ca/en.
+
+BMO is committed to an inclusive, equitable and accessible workplace. By learning from each other’s differences, we gain strength through our people and our perspectives. Accommodations are available on request for candidates taking part in all aspects of the selection process. To request accommodation, please contact your recruiter.
+
+Note to Recruiters: BMO does not accept unsolicited resumes from any source other than directly from a candidate. Any unsolicited resumes sent to BMO, directly or indirectly, will be considered BMO property. BMO will not pay a fee for any placement resulting from the receipt of an unsolicited resume. A recruiting agency must first have a valid, written and fully executed agency agreement contract for service to submit resumes.
+
+2. Senior Data Scientist - Akkodis: Exciting Opportunity: Principal Data Scientist
+
+Are you a visionary in data science, machine learning, and AI? We’re seeking a Principal Data Scientist to lead innovative, data-driven solutions that will shape investment strategies and business objectives. In this role, your expertise will help optimize decision-making and drive transformation across various asset classes.
+
+Your Impact:
+• Lead the design and deployment of advanced data science solutions to solve complex, high-impact business challenges.
+• Influence AI-driven business and technology strategies.
+• Utilize cutting-edge techniques like NLP, computer vision, deep learning, and optimization to generate insights and enhance decision-making.
+• Develop scalable, reliable data models, pipelines, and products to support robust data science solutions.
+• Communicate insights through impactful data storytelling to senior leadership and key stakeholders.
+• Stay ahead of trends by researching emerging AI and data science tools and frameworks.
+• Mentor junior data scientists, fostering a culture of innovation and collaboration.
+
+This is a chance to take a leadership role in shaping the future of data science within an innovative environment.
+
+3. Data Scientist - Royal Bank of Canada: Job Summary
+
+Job Description
+
+What is the opportunity?
+
+RBC is a global leader in applying Artificial Intelligence (AI) in the banking sector in order to create value for our clients, with capabilities ranging from LLM-powered digital banking, boosting ensembles in fraud detection and AML, voice assistants in customer service, to algorithmic trading in capital markets. A failure to effectively prepare for and manage emerging model risk related to AI would subject RBC to financial, regulatory, and reputational risks and, as a result, RBC would not be able to provide its clients with the best quality service. Therefore, the AI validation team within RBC’s Enterprise Model Risk Management (RBC Group Risk Management) is tasked with overseeing, assessing, and managing the model risk that may arise from these AI capabilities.
+
+The AI validation team uses machine learning, statistical, and computational strategies to assess model risk. In doing so, RBC is able to identify model weaknesses early and enhance the reliability of production models across all lines of business.
+
+What will you do?
+• Application: You will have the opportunity to work in any of the many areas we work in, across an even wider variety of business functions, such as the following:
+
+Types of Models
+
+Classification, regression, anomaly detection, natural language processing, computer vision, reinforcement learning, recommendation systems, dimensionality reduction, Large Language Models including generative AI
+
+Business Functions
+
+Internal Audit, Cybersecurity, Fraud Management, Anti-Money Laundering, Insurance, Credit Risk, Technology Operations, Identity & Access Management, Human Resources
+• Validation: Your role is to challenge models and identify risks associated with their use – both conceptually and empirically. To that end, you will design and execute validation frameworks, exploring modelling considerations such as conceptual soundness, data processing, metric reproducibility & stability, benchmarking, robustness, uncertainty quantification, fairness, privacy, explainability, implementation controls and more. You will also have the freedom to explore ideas that interest you and build your own models and tools.
+• Research & Development: You will read research papers (established work and state-of-the-art) to enhance how our team validates models and contribute to our knowledge pool. You are encouraged to apply what you’ve learned to real-world problems, develop reusable software packages, and share your insights with others.
+• IT: You will collaborate with cross-functional stakeholders to establish and promote best-practices related to MLOps, tooling and IT infrastructure.
+• Governance: You will work with model developers (data scientists, researchers, engineers) and business stakeholders to inventory applications of AI and machine learning at the bank, determine their materiality, and assess whether they require review.
+
+What do you need to succeed?
+
+Must-have
+• Passionate about learning and staying up-to-date with research and technology
+• Strong communication and interpersonal skills
+• Progress towards a PhD or Master’s degree in Statistics, Computer Science, Applied Mathematics, Econometrics, Engineering, Quantitative Finance, or a related quantitative field
+• Proficient programming skills in Python or a similar language; you should already be comfortable with writing research experiments and be willing to learn how to write clean code.
+• Familiarity with popular machine learning frameworks and libraries
+
+Nice-to-have
+• A risk-oriented mindset: You are curious about the “how” as well as the “why"
+• Publication or prior research experience (applied or fundamental)
+• Experience with version control systems
+• Comfortable with command line tools
+
+What’s in it for you?
+
+As a team, we thrive on the challenge to be our best, encourage progressive thinking for continued growth, and collaborate with one another to deliver trusted advice to help our clients thrive and our communities prosper. We respect and care about all of our team members and support one another in reaching our fullest potential. We work together to make a difference in our communities and to achieve success that is mutual.
+
+This opportunity will provide you with:
+• Leaders who support your development through coaching and managing opportunities
+• Flexibility to work on projects that you are passionate about
+• Ability to make a difference and lasting impact
+• Work in a dynamic, collaborative, progressive, and high-performing team
+• Opportunities to do challenging work and make a difference
+• Opportunities to build close relationships
+
+#LI-Hybrid
+#LI-POST
+
+Job Skills
+Communication, Consulting, Critical Thinking, Financial Instruments, Group Problem Solving, Investment Risk Management, Market Risk, Quantitative Methods, Risk Management
+
+Additional Job Details
+
+Address:
+
+ROYAL BANK PLAZA, 200 BAY ST:TORONTO
+
+City:
+
+TORONTO
+
+Country:
+
+Canada
+
+Work hours/week:
+
+37.5
+
+Employment Type:
+
+Full time
+
+Platform:
+
+GROUP RISK MANAGEMENT
+
+Job Type:
+
+Regular
+
+Pay Type:
+
+Salaried
+
+Posted Date:
+
+2024-08-09
+
+Application Deadline:
+
+2024-08-26
+
+Inclusion and Equal Opportunity Employment
+
+At RBC, we embrace diversity and inclusion for innovation and growth. We are committed to building inclusive teams and an equitable workplace for our employees to bring their true selves to work. We are taking actions to tackle issues of inequity and systemic bias to support our diverse talent, clients and communities.
+​​​​​​​
+We also strive to provide an accessible candidate experience for our prospective employees with different abilities. Please let us know if you need any accommodations during the recruitment process.
+
+Join our Talent Community
+
+Stay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you.
+
+Expand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at jobs.rbc.com.
+
+4. Senior Data Scientist- CA - Informa Group Plc.: Curinos focuses on using AI and data science to empower financial institutions to enhance decision-making and customer engagement through their FinTech products. The Senior Data Scientist will utilize AI and machine learning to analyze banking customer behavior, optimize marketing strategies, and derive actionable insights. This role emphasizes the integration of applied data science into enterprise applications to improve consumer banking experiences. The individual will also play a vital role in collaborating with cross-functional teams to establish best practices in data utilization.
+
+5. Data Scientist - LLM - Iris Software Inc.: Iris's direct client, one of the Top 5 Bank in Canada, is looking to hire a Data Scientist - LLM for a long term opportunity at Toronto, ON (Hybrid Position).
+
+Our Client is a Canadian multinational financial services company and the largest bank in Canada by market capitalization. The bank serves over 17 million clients and has more than 89,000 employees worldwide. Bank is serving individual consumers, small and middle market businesses and large corporations with a full range of banking, investing, asset management and other financial and risk-management products and services.
+
+Position: Data Scientist - LLM
+
+Location: Toronto, ON (Hybrid - 3 Days in Office/week)
+
+Duration: Long Term Open Ended Contract
+
+Responsibilities
+• Data Scientist with experience on LLM use cases in Finance, Executive Earnings Reports, llama, OpenAI.
+• Implement LLM observability and monitoring solutions.
+• Experience/Expertise with LLM Fine tuning, LLM Ops, Model Evaluation and Prompt Engineering
+• Experience (or knowledge of) Mosaic ML, Ray Framework.
+
+About Iris Software Inc.
+
+With 4,000+ associates and offices in India, U.S.A. and Canada, Iris Software delivers technology services and solutions that help clients complete fast, far-reaching digital transformations and achieve their business goals. A strategic partner to Fortune 500 and other top companies in financial services and many other industries, Iris provides a value-driven approach - a unique blend of highly-skilled specialists, software engineering expertise, cutting-edge technology, and flexible engagement models. High customer satisfaction has translated into long-standing relationships and preferred-partner status with many of our clients, who rely on our 30+ years of technical and domain expertise to future-proof their enterprises. Associates of Iris work on mission-critical applications supported by a workplace culture that has won numerous awards in the last few years, including Certified Great Place to Work in India; Top 25 GPW in IT & IT-BPM; Ambition Box Best Place to Work, #3 in IT/ITES; and Top Workplace NJ-USA.
+
+6. Data Scientist (Global Data and Analytics) - Circle K: JOIN OUR TEAM!
+
+At Circle K, our mission is simple: to make our customer’s lives a little easier everyday. You may have already stopped for coffee, refueling your car, or eating something on the go. Then, you know what Couche-Tard/Circle K is. We have grown into a successful global company with over 16,000 stores in 29 countries, serving almost 9 million customers every day. In total, more than 150,000 people work in our stores and offices. We make journeys easier by offering fast and friendly service. We care about our people and our communities, and we look for ways to uplift people first. Wherever your journey’s going, we can help you get there.   Are you ready to grow your career? Let's grow together!
+
+Data Scientist (Global Data and Analytics)
+
+________________________________________________________
+
+Department: Global Data and Analytics
+
+Location: Toronto, ON (305 Milner Ave, Suite 400, M1B 3V4)
+
+Hybrid work: 3 days at the office and 2 days remotely
+
+Type of employment: Permanent, Full Time (40 hours)
+
+________________________________________________________
+
+THE ROLE
+
+As a member of the Enterprise Data & Analytics Team, the Data Scientist is an everyday partner with multiple departments, including Global Marketing, Category Management, Shared Services & Finance, Global Technology, and Business Unit Leadership. This is a unique opportunity to work on a new, growing team within a large organization.
+
+The Data Scientist is responsible for delivering advanced analytics projects that drive business results. The ideal candidate should possess the ability to contribute to all aspects of project work, including interpreting business questions and desired outcomes, selecting the appropriate methodology, data cleaning, exploratory data analysis, model building, and creation of polished deliverables that are suitable for internal and external presentation.
+
+We are looking for an individual who is a proven problem solver with exceptional critical thinking ability. The candidate should have a high sense of curiosity and be comfortable with ambiguity when faced with a difficult challenge. Additionally, the candidate should possess the abilities to collaborate with others and simply and effectively communicate complex concepts with a non-technical audience.
+
+WHAT YOU’LL DO
+
+Excited to embark on a journey with us? Here's a breakdown of the key responsibilities in this role:
+• Develop advanced analytics and predictive models from design through implementation in the areas of pricing and promotion, marketing, merchandising, and other areas of the business as needed
+• Participate in the research of analytical methods to find or advance solutions to business problems
+• Clearly and concisely explain complex analytical findings to non-analytical peers and business leaders
+• Create analytic datasets in collaboration with data engineering teams that involves data querying, cleaning, transformation, and feature engineering. Define requirements and test cases for Data validation and monitoring
+• Author programming code (e.g., SQL, Python, R, spark) to assemble and analyze data, following/establishing/enhancing organizational standards and coding practices including code management (i.e. Documentation, use ofGit Hub). Lead and participate in peer code reviews for QA/QC/standards compliance.
+• Train/Mentor other team members, provide developmental support where necessary
+• Follow defined project management processes. Actively participate in project plan development and agile ceremonies (development of backlog, sprint planning, daily standups, retros/reviews) and documentation.
+
+WHAT YOU’LL NEED
+
+We want you to join our team! Here's what we're looking for:
+
+Education
+• Bachelor’s degree required, preferably with a quantitative focus (Statistics, Business Analytics, Data Science, Math, Economics, etc.)
+• Master’s degree preferred
+• Masters + 1year / Bachelors + 2 years of experience in a data science/advanced analytics role, or demonstrated ability to perform job functions via academic project/internship experience
+
+Knowledge and skills:
+• Demonstrated knowledge of SQL, R and Python;
+• Experience querying large datasets using SparkSQL or PySpark;
+• Experience with ML frameworks such as scikit-learn, Tensorflow, Keras, Pytorch, etc.;
+• Exposure with software development practices, object-oriented principles and test automation;
+• Exposure to version control systems such as Git – experience preferred
+• Experience with cloud-based analytics environments (Azure, AWS or GCP);
+• Experience applying operational research, statistical and machine learning techniques such as regression, time series forecasting, clustering, optimization, etc.;
+• Exposure to agile methodologies using project planning and tracking management tools e.g., JIRA; experience preferred
+• Strong problem-solving skills and ability to troubleshoot complex distributed systems;
+• Strong interpersonal skills, including the ability to communicate the business benefits of analytics;
+• Availability to travel up to 10% of the time
+
+WHY YOU SHOULD WORK HERE:
+
+At Circle K, we believe that our team members are the heart and soul of our business. When you join us, you're not just getting a job – you're becoming part of a vibrant community where your talents are valued, your growth is nurtured, and your contributions make a real difference. Here's why you'll love working with us:
+
+Benefits package:
+• Group Insurance Program: Stay healthy and happy! Our plan provides you with the flexibility to choose coverage that best meets your needs and add optional insurance (health and dental care, long-term disability, life insurance, health spending account)
+• Pension Plan: Plan for your future and retire with peace of mind with our pension plan, helping you build a secure financial future.
+• Share Purchase Plan: Invest in your future and share in our success with our employee stock purchase plan, allowing you to become a shareholder of Couche-Tard/Circle K.
+• Paid Time Off: Recharge and rejuvenate with paid time off, including vacation days, sick days, and personal days to help you maintain a healthy work-life balance.
+
+Additional Perks:
+• Employee Discounts: Enjoy exclusive discounts on our products and services, making it even easier to fuel up and stock up on your favorite goodies.
+• Training and Development: Grow your skills and advance your career with access to ongoing training and development opportunities, including workshops, seminars, and online courses.
+• Recognition and Rewards: We celebrate our team's achievements and milestones with a range of recognition programs, rewards, and incentives to show our appreciation for your hard work and dedication.
+• Mentorship Program: Take your career to new heights with our mentorship program, where seasoned professionals provide guidance, support, and valuable insights to help you reach your full potential.
+• Scholarship Program: Invest in your education and future success with our scholarship program, available not only to our employees but also to their children. We're committed to supporting your lifelong learning journey and empowering you to achieve your academic and career goals.
+
+INTERESTED? You are only a few clicks away from joining an exceptional company! Visit our careers page at https://workwithus.circlek.com/ca/en to submit your application. We can't wait to hear from you!
+
+At Couche-Tard/Circle K, we're committed to fostering an inclusive and diverse workplace where everyone is treated with respect and dignity. We welcome individuals from all backgrounds and walks of life to join our team and contribute their unique perspectives and talents.
+
+We thank all candidates for their interest in this position. Please note that only selected candidates will be contacted for further steps in the hiring process.
+
+#LI-LK1
+
+Circle K values diversity in the workplace and encourages applications from the following designated groups: women, aboriginal peoples, persons with disabilities and members of visible minorities. We are committed to providing employment accommodation in accordance with the Ontario Human Rights Code and the Accessibility for Ontarians with Disabilities Act. Accommodations are available on request in all aspects of the selection process.
+
+7. Senior Data Scientist, Wealth Campaign Analytics - Bank of Montreal: Application Deadline:
+
+09/14/2024
+
+Address:
+100 King Street West
+
+Job Family Group:
+
+Data Analytics & Reporting
+
+We are looking for a talented individual to join our team in the position of Senior Data Scientist, Wealth Campaign Analytics. The role will sit on the Wealth Data Science team while supporting the Wealth Campaign Analytics Team in an end-to-end role developing predictive models for this team and assisting with sizing, execution, channel loading, performance tracking for multiple wealth campaigns. This individual will drive insights to existing campaigns and will be responsible for developing and supporting the creation of new dashboards for existing and new campaigns. The successful candidate will be able to go beyond analytics/reporting to provide actionable insights and implement advanced analytical algorithms and technologies (e.g. machine learning, deep learning, artificial intelligence) to mine and analyze large sets of structured and unstructured data to obtain insights.
+
+Key Accountabilities:
+• Designs and constructs new processes for modeling data. Develops predictive models and leverages big data technology to design solutions that deliver smarter business decisions, improve customer experience, and drive productivity. Collaborates with other data and analytics professionals and teams to optimize, refine and scale analysis into mature analytics solutions.
+• Plays an active role in the futuristic display of data, and advancement of innovative data strategies to understand consumer trends and address business problems.
+• Uses data mining and extracting usable data from valuable data sources to assess feasibility of AI/ML solutions for improved processing and usage of organization data.
+• Conducts large-scale analysis of information to discover patterns and trends by combining different modules and algorithms.
+• Develops prediction systems and machine learning algorithms. Investigates additional technologies and tools for developing innovative data solutions for business stakeholders.
+• Manage and enhance daily/weekly/monthly campaign reporting to provide results and context to deliver actionable insights to senior management, not just reporting data
+• Improve and automate process using a variety of tools to drive operational efficiency
+• Produce dashboards, reports, analysis, insights that drive decisions and help us build better campaigns and experiences.
+• Take the lead on campaign performance measurement and increasing productivity of all marketing initiatives
+
+Qualifications:
+
+Minimum Requirements:
+• 2-8+ years of data science/quantitative modeling experience
+• Proficiency in SQL and Power BI, and a computing language such as Python
+• Strong knowledge and hands-on experience in several of the following areas: machine learning, statistics, optimization, product analytics, causal inference, and/or experimentation
+• Experience in working with cross-functional teams to deliver results
+• Ability to communicate results clearly and a focus on driving impact
+• A demonstrated ability to manage and deliver on multiple projects with a high attention to detail
+• Solid business acumen and experience in synthesizing complex analyses into actionable recommendations
+
+Preferred Qualifications:
+• Experience deploying models in production and adjusting model thresholds to improve performance
+• Experience designing, running, and analyzing complex experiments or leveraging causal inference designs
+• Experience with distributed tools such as Spark, Hadoop, etc.
+• A PhD or MS in a quantitative field (e.g., Statistics, Engineering, Mathematics, Economics, Quantitative Finance, Sciences, Operations Research)
+
+Salary:
+
+$81,600.00 - $151,200.00
+
+Pay Type:
+
+Salaried
+
+The above represents BMO Financial Group’s pay range and type.
+
+Salaries will vary based on factors such as location, skills, experience, education, and qualifications for the role, and may include a commission structure. Salaries for part-time roles will be pro-rated based on number of hours regularly worked. For commission roles, the salary listed above represents BMO Financial Group’s expected target for the first year in this position.
+
+BMO Financial Group’s total compensation package will vary based on the pay type of the position and may include performance-based incentives, discretionary bonuses, as well as other perks and rewards. BMO also offers health insurance, tuition reimbursement, accident and life insurance, and retirement savings plans. To view more details of our benefits, please visit: https://jobs.bmo.com/global/en/Total-Rewards
+
+We’re here to help
+
+At BMO we are driven by a shared Purpose: Boldly Grow the Good in business and life. It calls on us to create lasting, positive change for our customers, our communities and our people. By working together, innovating and pushing boundaries, we transform lives and businesses, and power economic growth around the world.
+
+As a member of the BMO team you are valued, respected and heard, and you have more ways to grow and make an impact. We strive to help you make an impact from day one – for yourself and our customers. We’ll support you with the tools and resources you need to reach new milestones, as you help our customers reach theirs. From in-depth training and coaching, to manager support and network-building opportunities, we’ll help you gain valuable experience, and broaden your skillset.
+
+To find out more visit us at https://jobs.bmo.com/ca/en.
+
+BMO is committed to an inclusive, equitable and accessible workplace. By learning from each other’s differences, we gain strength through our people and our perspectives. Accommodations are available on request for candidates taking part in all aspects of the selection process. To request accommodation, please contact your recruiter.
+
+Note to Recruiters: BMO does not accept unsolicited resumes from any source other than directly from a candidate. Any unsolicited resumes sent to BMO, directly or indirectly, will be considered BMO property. BMO will not pay a fee for any placement resulting from the receipt of an unsolicited resume. A recruiting agency must first have a valid, written and fully executed agency agreement contract for service to submit resumes.
+
+8. Expert Data Scientist - Roche: Roche fosters diversity, equity and inclusion, representing the communities we serve. When dealing with healthcare on a global scale, diversity is an essential ingredient to success. We believe that inclusion is key to understanding people’s varied healthcare needs. Together, we embrace individuality and share a passion for exceptional care. Join Roche, where every voice matters.
+
+The Position
+
+Always innovating, we bring together dedicated people and diverse perspectives from across our global network, empowering each other to
+
+keep breaking new ground.
+
+As a Senior Data Scientist you will join the data science cluster in the Roche Informatics Data and Analytics Chapter (DnA). You will be part of one or several multi-disciplinary agile teams where you’ll actively shape the future of healthcare by using data science methods and principles to generate deeper insights from multiple data sources. To achieve this, you will proactively identify needs, design and implement analytical solutions, provide advice and consulting support to our key stakeholders and show impact by executing proof-of-value initiatives, or contributing to existing products.
+
+The Opportunity:
+• Be accountable for the development and implementation of Data Science products focusing on Natural Language Processing leveraging LLMs and Generative AI tools.
+• Support proactive identification of the most relevant LLM/NLP use cases in collaboration with the key stakeholders.
+• Apply your expertise in NLP/LLM to develop and refine models that address Roche business needs. Involved in building and fine-tuning models and optimising their performance to provide valuable insights and solutions to business stakeholders
+• Support prioritisation efforts, understand feasibility and business impact, take smart risks to make informed decisions in a fast-paced, evolving environment to deliver patient benefits faster.
+• Collaborate within global agile teams in the Roche Informatics business and foundational domains to develop products that provide the highest value to both Roche Pharma and Diagnostics business stakeholders.
+• Provide methodical and implementation guidance as well as hands-on support around analytical LLM/NLP use cases. Evaluate the pros & cons of different NLP approaches and Generative AI platforms with comprehensive quantitative and qualitative analysis
+
+Who you are:
+• M.Sc. or PhD in Computer Science, Physics, Statistics, Mathematics or equivalent degree and experience with machine learning/data mining/artificial intelligence and at least 8 years of hands-on experience as a Data Scientist.
+• Hands-on experience with Python programming and common NLP libraries (e.g., transformers, gensim, spaCy, etc.)
+• Familiarity with essential frameworks (e.g. PyTorch) and infrastructure components (Docker, GPU) for training, fine-tuning and evaluating NLP tasks
+• Experience and good understanding of LLM tech stack (Hugging face, OpenAI, Bedrock, LangChain, Haystack)
+• Theoretical knowledge in LLM/GenAI (RAG, Vector DB, Embedding, Fine Tuning, ReAct reasoning, LoRA, Prompt Engineering)
+• Proven experience to deploy LLM models with cloud platforms (AWS, Azure) and machine learning workbenches for robust and scalable productionisation
+• Good knowledge of effective training and optimising language models to fit for internal infrastructure and ensure seamless integration
+• Experience in the pharmaceutical/biotech industry is preferred.
+
+Relocation benefits are not available for this position.
+
+Who we are
+
+At Roche, more than 100,000 people across 100 countries are pushing back the frontiers of healthcare. Working together, we’ve become one of the world’s leading research-focused healthcare groups. Our success is built on innovation, curiosity and diversity.
+
+Roche Pharma Canada has its office in Mississauga, Ontario and employs over 850 employees. The Mississauga facility is bright, vibrant, fosters collaboration and teamwork, and is reflective of Roche's truly innovative culture.
+
+As of January 4, 2022, Roche requires all new employees who work in Canada to be fully vaccinated against COVID-19 on the date they take office. This requirement is a condition of employment at Roche that applies regardless of whether the position is on a Roche campus or remotely. If you have a valid reason for not being fully immunized, which is limited to certain specific medical reasons or other valid reasons protected by applicable human rights laws, you may request an exemption and / or adaptation measures regarding this vaccination requirement.
+
+Roche is an Equal Opportunity Employer.
+
+9. Senior Data Scientist - eBay: At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.
+
+Our customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.
+
+Join a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.
+
+Position Summary:
+
+Want to help change the future of retail? Are you looking for a unique and visible role leading Data Science for Trust at eBay?
+
+Fast-paced, dynamic, and proactive, eBay’s Trust team is dedicated to making eBay a safe and trusted platform for the millions of buyers and sellers who make up the eBay community as well as continuously improving the level of trust between buyers, sellers, and eBay.
+
+For eBay, nothing is more important than trust. Understanding that no single action can protect us against sophisticated threats in this constantly changing environment, we apply multiple layers of policy and technology-based measures to keep buyers and sellers safe, ensuring their trust in our platform.
+
+Some of the key initiatives that the team is focused on include platform Communications, Seller Protections, Buyer and Seller Feedback, the eBay Money Back Guarantee, Seller Standards along with the end-to-end user experience across our comprehensive global policies and procedures. We’re incredibly proud of our work to establish a trusted global marketplace, but we’re not complacent. Our promise to the hundreds of millions of eBay’s customers is to remain steadfast in our efforts to provide the most safe, secure, and trusted marketplace, for buyers and sellers, in the world.
+
+As the Senior Data Scientist, you will play a critical role in continuously improving the Trust organization’s execution framework using processes, systems, and data. You will partner with Trust domain leaders; and, Product Management, Analytics, Data Science, Engineering and Design to identify areas of opportunity, size impacts and drive insights into operational plans. You will use predictive analytics to inform marketplace level decisions and ensure solutions meet our stated goals and objectives while accounting for changing market and economic conditions. You will create the overarching infrastructure and operational strategy to drive measurable impact and scale across the Trust organization’s areas of focus. Lastly, you will ensure that the needs of our international teams are well represented.
+
+What You’ll Do:
+
+Drive Strategic Insights: Apply strategic, operational and analytics standard processes to secure agreement from multiple partners for long-term solutions, and influence leaders across the Trust organization; building culture, establishing standards, and achieving goals.
+
+Analyze & Identify Opportunities: Drive analysis of key problems to identify the next big opportunity to improve customer experience and trust for buyers & sellers on the platform.
+
+Define & Monitor Metrics: Build and develop KPIs to track the trust experience of users on the platform. You will be responsible for monitoring the metrics and understanding the root causes behind the metric’s movement.
+
+Be Accountable: Define business objectives and measure progress in achieving results; demonstrate strong commitment towards goals and driving complex projects focused on reducing customer contacts, improving cost, quality, customer experience, and delivering bottom line savings.
+
+Who You Are - A Proven Leader Who:
+• Is a strategic thought leader that understands the importance of analytics, design, and research; and how they all fit into building new processes and deploying new technologies
+• Has strong analytical/data science skills to dive into data and identify root causes
+• Builds models (analytics & machine learning) to segment users on the platform
+• Applies statistical, machine learning & deep learning techniques to build solutions to solve complex trust problems
+• Demonstrates data effectively
+• Quickly and proactively resolves issues
+• Takes ownership and delivers results
+• Inspires a hard-working team, delivering results at eBay’s scale
+• Sets aggressive personal and team goals
+• Communicates clearly, effectively, and proactively with exceptional listening, written and verbal communication skills
+
+Minimum Qualifications:
+• BA/BS degree, with 8+ years of relevant experience within two or more functional areas (e.g., Quantitative Research, Analytics, Data Science)
+• Deep data analysis expertise with the ability to find the trends and implications within data to inform sound decisions
+• Proven ability to design analytical solutions to tackle complex business problems; and to partner with cross-functional peers to tailor those solutions for the greatest possible impact
+• Deep understanding of ML domains, algorithms and best practices
+• Strong programming (Python/R) and data engineering skills
+• Creative problem-solving skills
+• Relentless execution, resourcefulness, and a track record of delivering results in challenging situations
+• Experience acting as the voice of the customer and channeling many points of view, synthesizing them to drive alignment even in times of friction or disagreement
+• Experience communicating insights through data with senior-level executives
+• Proven experience owning the delivery of large-scale programs (multi $B), experiences, and products from roadmapping to delivery, as well as managing elements related to full-funnel and end-to-end user journeys
+• Strong customer and stakeholder empathy
+
+Please see the Talent Privacy Notice for information regarding how eBay handles your personal data collected when you use the eBay Careers website or apply for a job with eBay.
+
+eBay is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, veteran status, and disability, or other legally protected status. If you have a need that requires accommodation, please contact us at talent@ebay.com. We will make every effort to respond to your request for accommodation as soon as possible. View our accessibility statement to learn more about eBay's commitment to ensuring digital accessibility for people with disabilities.
+
+Jobs posted with location as "Remote - United States (Excludes: HI, NM)" excludes residents of Hawaii and New Mexico.
+
+This website uses cookies to enhance your experience. By continuing to browse the site, you agree to our use of cookies. Visit our Privacy Center for more information.
+
+10. Top Data Scientist Skills To Have - Offices To Let: 1) What is a Data Scientist? A data scientist is a role level professional who uses scientific methods, processes, algorithms, and systems to extract valuable insights from structured and unstructured data.
+
+They leverage their advanced degree in a field closely related to data science, like computer science, statistics, or mathematics, to analyze complex datasets and make informed business decisions.
+
+2) What are the Main Skills to Master for Data Science? A) Technical Skills Programming A data scientist should ideally be comfortable with several programming languages.
+
+Python, R, and SQL are particularly valuable in this field. Python’s simplicity, combined with its powerful libraries like NumPy, pandas, and Matplotlib, makes it a preferred language for many data science tasks, from data cleaning and visualization to machine learning.
+
+R, specifically designed for statistical analysis and visualization, is excellent for complex statistical tasks that involve exploratory data analysis and modeling.
+
+SQL, although not a programming language in the traditional sense, is crucial for interacting with databases and manipulating data stored in them.
+
+Understanding these languages allows data scientists to wrangle large data sets, perform sophisticated analysis, and build predictive models.
+
+Statistics At the heart of data science lies statistics. A strong foundation in statistics equips data scientists to understand the data, design and evaluate experiments, and make evidence-based decisions.
+
+Concepts like standard deviation and confidence intervals help in understanding data variability and uncertainty. Statistical hypothesis testing methods like t-tests or chi-square tests enable data scientists to infer and make decisions about the population based on sample data.
+
+Understanding regression, correlation, and Bayesian statistics can help in building and refining predictive models.Machine learning is a powerful tool in a data scientist’s toolkit.
+
+It involves training algorithms to learn patterns from data and make predictions or decisions without being explicitly programmed to do so.
+
+Understanding a range of machine learning techniques, from simpler models like linear regression and decision trees to more complex ones like Random Forest, gradient boosting, and neural networks (used in deep learning), is essential.
+
+Knowledge of clustering techniques like K-Means and hierarchical clustering can help uncover hidden groupings or patterns in data.
+
+Familiarity with libraries like Scikit-learn in Python can be beneficial in implementing these techniques.Data visualization is the graphic representation of data, a way to communicate complex information clearly and effectively.
+
+Mastery of data visualization tools helps data scientists convey their findings and insights to both technical and non-technical stakeholders.
+
+This involves knowing how to create and interpret different types of visualizations, from bar charts and pie charts to scatter plots and heat maps, each suitable for different kinds of data and questions.
+
+Libraries like Matplotlib and Seaborn in Python, or ggplot2 in R, are key tools for this purpose. Proficiency in creating dashboards in tools like Tableau or Power BI can also be a valuable skill.
+
+Communication Skills The real value of data analysis and predictive analytics can only be harnessed when its insights are effectively communicated.
+
+A data scientist needs to translate complex technical findings into actionable business insights that can be understood by non-technical stakeholders.
+
+This includes explaining the significance of data findings, justifying the choice of analytical models, and suggesting possible strategic actions based on data insights.
+
+Communication in data science isn’t only about clarity; it’s about tailoring messages for various audiences, visualizing data effectively, and telling a compelling story that drives decision-making.
+
+Interpersonal Skills Data science is not an isolated field; it’s often deeply collaborative. Whether it’s working within a multidisciplinary data science team or liaising with other departments, a data scientist needs strong interpersonal skills.
+
+This includes being an effective listener, understanding others’ perspectives, and being able to compromise when needed.
+
+A positive attitude and a capacity to handle criticism constructively are also vital, as data science often involves trial and error, as well as peer reviews of analytical approaches and models.
+
+Moreover, the ability to effectively collaborate and negotiate with others can drive the successful adoption of data-driven solutions within an organization.
+
+Business Acumen For data science to make a real impact, it needs to align with business goals and strategies. That’s why a successful data scientist often has a solid understanding of the business landscape, including the company’s product delivery mechanisms, operational processes, and business requirements.
+
+This allows them to frame data-driven insights in a context that matters to the organization and to build models that solve relevant business problems.
+
+Additionally, a keen sense of industry trends and market dynamics helps data scientists to anticipate and prepare for future business needs, thus making their contributions more valuable and strategic.
+
+Business acumen, combined with technical skills, positions data scientists as trusted advisors who can provide data-backed recommendations for business growth.
+
+3) How to Improve Your Data Scientist Skills A) Tips The field of data science is constantly evolving, with new artificial intelligence techniques and machine learning models emerging regularly.
+
+To stay relevant and innovative, continuous learning is a must for every data scientist. This includes staying updated with the latest research, learning about new tools and technologies, and constantly refining and expanding your existing skills.
+
+Engaging in continuous education can take many forms, from completing online courses to reading relevant academic papers, or even learning from open-source projects.
+
+The idea is to cultivate a mindset of lifelong learning, as this will empower you to stay at the forefront of the data science field.
+
+Practice Theoretical knowledge is essential, but practical application is where skills truly come to life. Applying your knowledge to real-world data science projects allows you to test your understanding, encounter and overcome real-world challenges, and develop a portfolio of work to showcase your abilities.
+
+Numerous online platforms offer data sets and project ideas, allowing you to work on everything from predictive modelling to natural language processing.
+
+Whether you’re analyzing a pre-existing data set or scraping your own data from the web, hands-on practice will enhance your problem-solving skills and deepen your understanding of the field.
+
+Network Being part of a community can significantly boost your growth as a data scientist. Networking with other professionals allows you to exchange ideas, learn from their experiences, and stay informed about the latest trends in the industry.
+
+Consider joining data science forums, participating in data-focused conferences, or contributing to hackathons. These activities not only widen your understanding of data science but can also open doors to new career opportunities.
+
+Furthermore, active participation in the data science community can help you gain recognition in the field, which can be beneficial for career advancement.
+
+There are several excellent books on data science, machine learning, and statistics that can help strengthen your foundation.
+
+The Hundred-Page Machine Learning Book by Andriy Burkov : A comprehensive yet succinct guide to Machine Learning, perfect for beginners and professionals alike.
+
+Data Science for Business by Foster Provost and Tom Fawce A fantastic introduction to the concepts and techniques of data science and how they apply to business decision-making.
+
+Python for Data Analysis by Wes McKinney : An excellent resource for anyone looking to learn Python for data analysis, with a focus on practical code examples.
+
+The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman : An in-depth and mathematically rigorous exploration of statistical learning and its applications.
+
+Naked Statistics : Stripping the Dread from the Data by Charles Wheelan : A light-hearted yet insightful book that provides a broad overview of statistics without getting bogged down in mathematical formulas.
+
+Blogs and Podcasts These are a great way to stay updated on the latest trends in the data science field Towards Data Science Blog : Provides a platform for thousands of people to exchange ideas and to expand our understanding of data science.
+
+Data Science Central Blog : Offers a range of content, from short articles and videos to in-depth discussions on data science topics.
+
+KDnuggets Blog : A leading site covering topics in AI, analytics, machine learning, data science, and more. Data Skeptic Podcast : Provides a perspective on topics related to data science, data analysis, machine learning, and artificial intelligence.
+
+The Data Science Podcast by SuperDataScience : Offers an intuitive, non-technical approach to complex subjects, with interviews from industry experts.
+
+Talking Machines Podcast : Explores the discipline of machine learning, with discussions and interviews about the field’s latest news and trends.
+
+4) Frequently Asked Questions (FAQ) Do I need an advanced degree to become a data scientist? While having an advanced degree might be advantageous, many successful data scientists have been able to excel through self-study, online degrees, or boot camps.
+
+What is more important : soft skills or technical skills? Both are equally important. While technical skills enable you to perform your job, soft skills help you communicate your results effectively, work in a team, and understand business requirements.
+
+5) Conclusion Becoming a successful data scientist requires a broad range of skills from programming to statistics to business acumen.
+
+However, with curiosity, perseverance, and continuous learning, anyone passionate about extracting meaning from data can thrive in this exciting field.
+
+Whether you’re an experienced data scientist or a beginner, we hope this comprehensive guide has provided you with valuable insights into the skills you need to focus on and how to improve them.
+
+Remember, every data scientist’s journey is unique keep exploring, stay curious, and never stop learning.#J-18808-Ljbffr
+
+Please note that the availability of these positions may vary. It is recommended to check the corresponding company's career page or job portals for the most recent and accurate information.
