@@ -18,7 +18,7 @@ An intelligent job search application leveraging the SerpAPI to fetch and format
 
 ## 🚀 **Project Overview**
 
-The AI-Powered Job Search Tool is designed to simplify and automate the job search process using SerpAPI's Google Jobs engine. With a few inputs like the job title and location, the tool fetches job listings, formats the information, and saves it into a text file, enhancing efficiency in job hunting.
+The Automated Job Search Tool is designed to simplify and automate the job search process using SerpAPI's Google Jobs engine. With a few inputs like the job title and location, the tool fetches job listings, formats the information, and saves it into a text file, enhancing efficiency in job hunting.
 
 ---
 
