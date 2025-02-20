@@ -1,5 +1,3 @@
----
-
 # 💼 AI-Powered Job Search Tool  
 
 ```
